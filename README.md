@@ -6,3 +6,9 @@ This repo is used by the Northstar support team for onboarding and internal trai
 
 ## Getting started 
 Install the project files and review the setup notes before starting work 
+
+## Training
+
+Northstar Support Team training repository.
+
+This repository is used for support training and practice with sample data.
