@@ -1,3 +1,4 @@
-SUPPORT EMAIL = 'support@northstar.co.ke"
+SUPPORT EMAIL = 'support@northstar.co.ke'
+
 TICKET_TIMEOUT_MINUTES = 30
 ESCALATION_ENABLED = TRUE
