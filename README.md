@@ -1,4 +1,4 @@
-# Support-portal-training
+# Northstar Support-portal-training
 Internal support portal documentation for the Northstar support team
 
 ### About 
